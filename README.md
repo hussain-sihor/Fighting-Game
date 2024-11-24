@@ -1,2 +1,3 @@
 # Fighting-Game
-Developed using HTML, CSS, and JavaScript, This game offers a smooth and responsive gaming experience compatible with various browsers.
+## DEMO - https://hussain-fighting.netlify.app/
+An interactive 2D fighting game built with JavaScript, featuring dynamic character animations. The game includes collision detection and health bar. This is built on core js concepts.
